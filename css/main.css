@@ -218,6 +218,11 @@
 	border-bottom: 1px dotted #ccc;
 	font-size: 14px;
 }
+.most_download_content a:hover
+{
+	color: red;
+}
+
 
 
 
