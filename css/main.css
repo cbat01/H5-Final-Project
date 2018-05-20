@@ -65,11 +65,11 @@
 .nav_mid
 {
 	float: left;
-	height: 40px;
+	height: 38px;
 }
 .nav ul
 {
-	height: 40px;
+	height: 38px;
 }
 .nav_mid_left{
 	margin: 0 auto;
@@ -81,7 +81,7 @@
 	list-style-type: none;
 	width: 100px;
 	text-align: center;
-	line-height: 40px;
+	line-height: 38px;
 	font-family: "微软雅黑";
 }
 .nav_mid_left a:link,.nav_mid_left a:visited/*设置超链接初始状态，访问状态*/
